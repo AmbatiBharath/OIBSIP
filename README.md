@@ -1,1 +1,1 @@
-# OIBSIP
+Iris flower has three species; setosa, versicolor, and virginica, which differs according to theirmeasurements. Now assume that you have the measurements of the iris flowers according totheir species, and here your task is to train machine learning model that can learn from the measurements of the iris species and classify them.
